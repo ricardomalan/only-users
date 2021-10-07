@@ -5,3 +5,9 @@ export function getUsers() {
     type: type.GET_USERS_REQUESTED,
   };
 }
+
+export function clearUsers() {
+  return {
+    type: type.CLEAR_DATA,
+  };
+}

@@ -25,6 +25,8 @@ export default function users(state = initialState, action) {
         loading: false,
         error: action.message,
       };
+    case type.CLEAR_DATA:
+      return initialState;
     default:
       return state;
   }
