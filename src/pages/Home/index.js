@@ -28,10 +28,10 @@ const Home = () => {
         </Header>
         <Main>
           <Titulo>
-            Aplicação para listar usuários e algumas de suas informações.
+            Application to list users and some of their information.
           </Titulo>
           <div>
-            <button onClick={list}>Listar usuários</button>
+            <button onClick={list}>User list</button>
           </div>
         </Main>
       </LeftModule>

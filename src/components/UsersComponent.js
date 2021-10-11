@@ -57,6 +57,7 @@ const Users = () => {
     'rio de janeiro': 'Rio de Janeiro',
     'rio grande do norte': 'Rio Grande do Norte',
     'rio grande do sul': 'Rio Grande do Sul',
+    rondonia: 'Rondônia',
     roraima: 'Roraima',
     'santa catarina': 'Santa Catarina',
     'são paulo': 'São Paulo',
